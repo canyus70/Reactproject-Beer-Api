@@ -1,0 +1,13 @@
+nav {
+    position: sticky;
+    bottom: 0;
+    width: 200px;
+    height: 50px;
+}
+
+nav img {
+    display: block;
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
